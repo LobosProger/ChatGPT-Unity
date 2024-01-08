@@ -9,5 +9,5 @@ This application allows you to engage in conversations with ChatGPT, ask questio
 ## Demonstration Video
 
 <div align="center">
-<video src="https://github.com/LobosProger/ChatGPT-Unity/assets/78168123/45ce0a71-95ad-4fb0-9e99-2ae4555a7fc6" width="400" />
+<video src="https://github.com/LobosProger/ChatGPT-Unity/assets/78168123/45ce0a71-95ad-4fb0-9e99-2ae4555a7fc6" height="400" />
 </div>
