@@ -1,8 +1,15 @@
-# ChatGPT app
-* Simple created appliaction in Unity, in which you can chat with ChatGPT, ask to him questions and get answers.
-* Created ability to type message and send to ChatGPT
-* Implemented scroll view component to see entire conversation with him
+# ChatGPT Unity App
 
-## Demonstration video
+This application allows you to engage in conversations with ChatGPT, ask questions, and receive answers in a simple and interactive way. Developed in Unity Engine.
 
-https://github.com/LobosProger/ChatGPT-Unity/assets/78168123/45ce0a71-95ad-4fb0-9e99-2ae4555a7fc6
+## Features
+* **Chat Interface:** Easily type and send messages to ChatGPT.
+* **Conversation History:** Implemented a scroll view component to view the entire conversation history.
+
+## Demonstration Video
+
+<div align="center">
+  <a href="https://github.com/LobosProger/ChatGPT-Unity/assets/78168123/45ce0a71-95ad-4fb0-9e99-2ae4555a7fc6">
+    <img src="https://github.com/LobosProger/ChatGPT-Unity/assets/78168123/45ce0a71-95ad-4fb0-9e99-2ae4555a7fc6" alt="ChatGPT Unity App Demonstration" width="640" height="360">
+  </a>
+</div>
