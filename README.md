@@ -9,6 +9,7 @@ This application allows you to engage in conversations with ChatGPT, ask questio
 ## Demonstration Video
 
 <div align="center">
-  <a href="https://github.com/LobosProger/ChatGPT-Unity/assets/78168123/04b5a86f-f763-4d48-bb06-f78ed1310c7b">
+  <a href="https://github.com/LobosProger/ChatGPT-Unity/assets/78168123/45ce0a71-95ad-4fb0-9e99-2ae4555a7fc6">
+    <img src="https://github.com/LobosProger/ChatGPT-Unity/assets/78168123/45ce0a71-95ad-4fb0-9e99-2ae4555a7fc6" alt="ChatGPT Unity App Demonstration" width="640" height="360">
   </a>
 </div>
